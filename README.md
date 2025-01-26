@@ -44,9 +44,13 @@ Prevent any data sharing outside of the controlled testing environment.
 Obfuscate code by:
 
 Renaming variables with confusing names (e.g., ||IIIlll|| = "david").
+
 Adding junk data or code blocks to increase file size artificially.
+
 Encoding parts of the malware (e.g., Base64 or custom encoding).
+
 Ensure obfuscated code is fully functional and well-documented for reverse engineering tasks.
+
 ##  Reverse Engineering
 Analyze malware prototypes developed during the training.
 Practice decompiling or debugging to identify obfuscation techniques and functionality.
@@ -59,3 +63,7 @@ Never deploy or test malware on live or production systems.
 Clearly state that all activities are for educational purposes only within the framework of ethical hacking and cybersecurity training.
 Follow all laws and guidelines related to cybersecurity, avoiding harm to actual systems or users.
 Do not share malware prototypes outside the training environment.
+
+
+See the attached documentation 
+https://www.canva.com/design/DAGdLl8aZ7M/gzAis_EEODoohhG7SibljA/edit  all the operation of each malware
