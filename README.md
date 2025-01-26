@@ -65,5 +65,5 @@ Follow all laws and guidelines related to cybersecurity, avoiding harm to actual
 Do not share malware prototypes outside the training environment.
 
 
-See the attached documentation 
-https://www.canva.com/design/DAGdLl8aZ7M/gzAis_EEODoohhG7SibljA/edit  all the operation of each malware
+See the attached documentation for the operation of each malware
+https://www.canva.com/design/DAGdLl8aZ7M/gzAis_EEODoohhG7SibljA/edit 
